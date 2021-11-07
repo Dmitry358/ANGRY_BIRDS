@@ -100,23 +100,101 @@
 	"buffers":
 	[
 		{
-			"file": "style.css",
+			"file": "curiosita.html",
 			"settings":
 			{
-				"buffer_size": 2551,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "storia.html",
-			"settings":
-			{
-				"buffer_size": 5330,
+				"buffer_size": 2828,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "class"
+					},
+					"BQAAAAYFAAAAAAAABwUAAAAAAAAAAAAABwUAAAAAAAAIBQAAAAAAAAAAAAAIBQAAAAAAAAkFAAAAAAAAAAAAAAkFAAAAAAAACgUAAAAAAAAAAAAACgUAAAAAAAALBQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGBQAAAAAAAAYFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAsFAAAAAAAADAUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAALBQAAAAAAAAsFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAAsFAAAAAAAADAUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAALBQAAAAAAAAsFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAAwFAAAAAAAADgUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAMBQAAAAAAAAwFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "cur"
+					},
+					"AwAAAA0FAAAAAAAADgUAAAAAAAAAAAAADgUAAAAAAAAPBQAAAAAAAAAAAAAPBQAAAAAAABAFAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAANBQAAAAAAAA0FAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACcJAAAAAAAAKAkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAnCQAAAAAAACcJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"paste",
+					null,
+					"AQAAACgJAAAAAAAAMwkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAoCQAAAAAAACgJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"paste",
+					null,
+					"AQAAAHQJAAAAAAAAfwkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB0CQAAAAAAAHQJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAH8JAAAAAAAAgAkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB/CQAAAAAAAH8JAAAAAAAAAAAAAAAA8L8"
+				]
 			]
 		}
 	],
@@ -131,6 +209,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"git ",
+				"Set Syntax: Git Log"
+			],
+			[
+				"packeg",
+				"Package Control: Add Repository"
+			],
+			[
+				"in",
+				"Install Package Control"
+			]
 		],
 		"width": 0.0
 	},
@@ -156,8 +246,11 @@
 	],
 	"file_history":
 	[
-		"/C/Users/NADIYA/Desktop/ANGRY_BIRDS/storia.html",
 		"/C/Users/NADIYA/Desktop/ANGRY_BIRDS/style.css",
+		"/C/Users/NADIYA/Desktop/PROBA/style-PROBA.css",
+		"/C/Users/NADIYA/Desktop/PROBA/index-PROBA.html",
+		"/C/Users/NADIYA/Desktop/Nuova cartella/ANGRY_BIRDS/ANGRY_BIRDS/mini.css",
+		"/C/Users/NADIYA/Desktop/ANGRY_BIRDS/storia.html",
 		"/C/Users/NADIYA/Desktop/ANGRY_BIRDS/versioni.html",
 		"/C/Users/NADIYA/Desktop/ANGRY_BIRDS/curiosita.html",
 		"/C/Users/NADIYA/Desktop/ANGRY_BIRDS/protagonisti.html",
@@ -204,51 +297,20 @@
 			[
 				{
 					"buffer": 0,
-					"file": "style.css",
+					"file": "curiosita.html",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2551,
+						"buffer_size": 2828,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 378.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "storia.html",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 5330,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2836,
-								2836
+								2432,
+								2432
 							]
 						],
 						"settings":
@@ -258,7 +320,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 216.0,
+						"translation.y": 432.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -274,7 +336,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 39.3333333333
 	},
 	"layout":
 	{
@@ -344,7 +406,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 247.0,
 	"status_bar_visible": true,
 	"template_settings":

@@ -73,10 +73,9 @@ body{
 #currentLink{ /*DA SISTEMARE!!!!!!!!!!!!!!!!!!!*/
 	background-image: url('images/red.png');
 	background-position: left center;
-	background-size: 1.4em;
+	background-size: 1.2em;
 	background-repeat: no-repeat;
-	padding-left: 1.5em;
-
+	padding-left: 1.4em;
 }
 
 #breakingNews{
@@ -111,6 +110,19 @@ body{
 	padding-top: 2.0em;
 	padding-left: 3.5em;	
 }
+#storiaH1{
+	text-align: center;
+	padding-bottom: .3em;
+}
+
+#storyImg{
+	display: block;
+	margin: auto;
+	width: 50%;	
+}
+#tornaSu{
+	text-align: right;
+}
 
 #charactersStory dd{
 	border: 1px solid #000;
@@ -127,7 +139,7 @@ body{
 	font-size: 1.1em;
 }
 
-#charactersStory img{
+#charactersStory dd img{
 	float: left;
 	width: 20%;
 	margin-right: 1.0em;
@@ -157,8 +169,12 @@ body{
 	font-size: 1.1em;
 }
 
-#content #storyImg{
-	width: 100%;
+.cur{
+	width: 40%;
+}
+
+#contentCuriosita h1{
+	text-align: center;
 }
 
 #footer {
